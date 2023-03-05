@@ -16,6 +16,9 @@ npm install
 npm run dev -- --open
 ```
 
+### Collaborations
+For suggesting changes and improvements, please fork the repository, make your changes in the `develop` branch create a pull request. Thanks!
+
 ### Todo
 - [x] Simple main page
 - [x] Simple records page
